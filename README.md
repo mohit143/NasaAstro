@@ -22,7 +22,7 @@ It is a iOS app where the user can see the daily picture released by nasa. It sh
 1. Download the .zip file from the repository and unzip it.
 2. Open the "MohitMathurWalE.xcodeproj" file in xcode and then run the project by clicking play button after selecting desired device.
 
-#Improvements Areas
+# Improvements Areas
 1. Although the application fullills the acceptance criteria but some components can be added to the ui like refresh button to refresh the astronomy picture. 
 2. A protocol can be created as "ImageCacheType" and can add create, read, update, and delete functions to it.
 3. Read-write lock can be used for better performance.
